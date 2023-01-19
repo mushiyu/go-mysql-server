@@ -11,7 +11,7 @@ require (
 	github.com/golang/protobuf v1.3.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/mitchellh/hashstructure v1.0.0
-	github.com/mushiyu/vitess v1.0.0
+	github.com/mushiyu/vitess v1.0.1
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852
 	github.com/opentracing/opentracing-go v1.0.2
 	github.com/pilosa/pilosa v1.3.0
